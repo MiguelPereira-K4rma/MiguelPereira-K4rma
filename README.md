@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to K4rma's GitHub Profile! 👋
 
-Hi there! I'm [Your Name], and I'm passionate about [your main interests or areas of expertise]. This is my GitHub playground where I share my projects, experiments, and contributions to the open-source community.
+Hi there! I'm Miguel Pereira, and I'm passionate about [your main interests or areas of expertise]. This is my GitHub playground where I share my projects, experiments, and contributions to the open-source community.
 
 ## About Me
 
