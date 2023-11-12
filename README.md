@@ -4,8 +4,8 @@ Hi there! I'm Miguel Pereira, and I'm passionate about [your main interests or a
 
 ## About Me
 
-- 🌱 I'm currently working on [briefly describe your current project or focus].
-- 💡 I love [mention your hobbies or other interests].
+- 🌱 I'm currently working on an Android App to help restaurants fill HACCP paperwork in a way that it's fast, intuitive and secure without a way of faking information.
+- 💡 I love programing, databases, building android applications, probabilities and card games.
 - 💬 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle).
 
 ## Featured Projects
