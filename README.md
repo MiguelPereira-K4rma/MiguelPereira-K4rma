@@ -1,4 +1,3 @@
-#Hello World!
 # Welcome to K4rma's GitHub Profile! 👋
 
 Hi there! My name is Miguel Pereira, i am a computer Science Student at UBI (Universidade da Beira Interior) in Covilhã.
