@@ -39,6 +39,5 @@ If you find my work valuable, you can support me by:
 - ⭐️ Starring my repositories that you find interesting.
 - 📢 Sharing my projects with others.
 - 💬 Providing feedback or reporting issues.
-- ☕ Buying me a coffee through [Ko-fi](https://ko-fi.com/yourusername).
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here, and I look forward to connecting with you.
